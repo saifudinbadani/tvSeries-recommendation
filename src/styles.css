@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: small;
+}
+button {
+  padding: 1rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  border-radius: 0.3rem;
+  background-color: wheat;
+  cursor: pointer;
+}
+li {
+  list-style: none;
+  float: center;
+  border: 1px solid wheat;
+  padding: 1rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  border-radius: 1rem;
+}
+.name {
+  font-size: larger;
+  margin: auto;
+}
+
+.rating {
+  font-size: smaller;
+  margin: auto;
+}
